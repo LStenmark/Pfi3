@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nästa Vädercitat</string>
+
+    <string-array name="Quotes">        <item>"Sit by the sleet, you’ll look better by comparison." \n - Anonymous</item>
+        <item>"Good looking people turn me off. The weather today on the other hand…"\n - Anonymous</item>
+        <item>"I look at the weather therefore I am" \n - Anonymous</item>
+        <item>“It\'s not the weather that matters, it\'s what you see." \n
+― Inspired by Henry David Thoreau
+</item>
+        <item>The weather doesn’t necessarily discriminate. It simply excludes certain types of good weather. \n - Anonymous</item>
+        <item>"All bad weather is the result of good intentions." \n
+- Inspired by Oscar Wilde
+</item>
+        <item>“Cloud. James Cloud.” \n
+- Inspired by James Bond.
+
+</item>
+        <item>"Any man who can be in the sun while kissing a pretty girl is simply not giving the sun the attention it deserves."\n
+- Inspired by Albert Einstein
+</item>
+        <item>“And, in the end\n
+The snow on your body\n
+is equal to the love you make.”\n
+- Inspired by Paul McCartney
+</item>
+        <item>"I am thankful for all of the clouds who didn’t rain on me. It’s because of them I’m doing it myself." \n - Inspired by Albert Einstein</item>
+        <item>"Instead of getting married again, I’m going to find a raindrop I don’t like and just give it a house." \n
+ - Inspired by Rod Stewart
+</item>
+        <item>"Sunshine is like peeing on yourself: everyone can see it, but only you get the warm feeling that it brings." \n
+ - Inspired by Robert Bloch
+</item>
+        <item>"To be in the sleet is the rarest thing in the world. Most people exist, that is all.” \n
+― Citat inspired by Oscar Wilde
+</item>
+        <item>"“The worst part of being a grey cloud is trying to find someone who is happy for you.” \n
+ - Inspired by Bette Midler
+</item>
+    </string-array>
+
+    <string name="appy_name">Klicka på knappen för ett nice vädercitat</string>
+
+</resources>
